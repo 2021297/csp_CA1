@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="author" content="Yuna Jang">
+    <meta name="Jackfork " content="Yuna Jang 2021297">
     <meta name="description" content="description of your page">
     <title>Tesla, Inc. - Wikipedia</title>
 </head>
@@ -12,9 +12,9 @@
     <header>
         <nav>
             <ul>
-                <li><a href="#1">Paragragh 1</a></li>
-                <li><a href="#2">Paragragh 2</a></li>
-                <li><a href="#3">Paragragh 3</a></li>
+                <li><a href="#1">Tesla,inc.</a></li>
+                <li><a href="#2">Tesla Energy products</a></li>
+                <li><a href="#3">Automotive products-Future productsts</a></li>
             </ul>
         </nav>
         
@@ -23,29 +23,71 @@
 
     
     <section>
-    <h1>Tesla,inc.</h1>
-    <p id="1"><strong>Tesla,inc.</strong>
-       
-        Tesla, Inc.  <em>(/ˈtɛslə/ TESS-lə or /ˈtɛzlə/ TEZ-lə[b])</em> is an American <a href = "https://en.wikipedia.org/wiki/Electric_vehicle"> electric vehicle</a> and clean energy company based in Austin, Texas. Tesla designs and manufactures electric cars, battery energy storage from home to grid-scale, solar panels and solar roof tiles, and related products and services. Tesla is one of the world's most valuable companies and remains the world's most valuable automaker with a market capitalization of nearly US$1 trillion. The company had the most worldwide sales of battery electric vehicles and plug-in electric vehicles, capturing 23% of the battery-electric (purely electric) market and 16% of the plug-in market (which includes plug-in hybrids) in 2020. Through its subsidiary Tesla Energy, the company develops and is a major installer of photovoltaic systems in the United States. Tesla Energy is also one of the largest global suppliers of battery energy storage systems, with 3.99 gigawatt-hours (GWh) installed in 2021.
-    </p>
-    
+   
+
 
     <figure>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/180px-Tesla_Motors.svg.png"
             alt="Logo of the American car manufacturer and technology company Tesla, Inc.">
-            <figcaption>
-                Logo of the American car manufacturer and technology company Tesla, Inc.
-            </figcaption>
+           
     </figure>
     
-    
-        <p id="2"></p>
-        Founded in July 2003 by Martin Eberhard and Marc Tarpenning as Tesla Motors, the company's name is a tribute to inventor and electrical engineer Nikola Tesla. In February 2004, via a $6.5 million investment, X.com co-founder Elon Musk became the largest shareholder of the company and its chairman. He has served as CEO since 2008. According to Musk, the purpose of Tesla is to help expedite the move to sustainable transport and energy, obtained through electric vehicles and solar power. Tesla began production of its first car model, the Roadster sports car, in 2009. This was followed by the Model S sedan in 2012, the Model X SUV in 2015, the Model 3 sedan in 2017, and the Model Y crossover in 2020. The Model 3 is the all-time best-selling plug-in electric car worldwide, and, in June 2021, became the first electric car to sell 1 million units globally.<sup>[8]</sup> Tesla's global sales were 936,222 cars in 2021, a 87% increase over the previous year,<sup>[9]</sup> and cumulative sales totaled 2.3 million cars at the end of 2021.<sup>[10]</sup> In October 2021, Tesla's market capitalization reached $1 trillion, the sixth company to do so in U.S. history.</p>
-    
+    <h1>Tesla,inc.</h1>
 
-    
+    <p id="1">
+      
+        <em>(/ˈtɛslə/ TESS-lə or /ˈtɛzlə/ TEZ-lə[b])</em> is an American <a href = "https://en.wikipedia.org/wiki/Electric_vehicle"> electric vehicle</a> and <a href = "https://en.wikipedia.org/wiki/Clean_energy">clean energy</a> company based in Austin, Texas. Tesla designs and manufactures electric cars, battery energy storage from home to grid-scale, solar panels and solar roof tiles, and related products and services. Tesla is one of the world's most valuable companies and remains the world's most valuable automaker with a market capitalization of nearly US$1 trillion. The company had the most worldwide sales of battery electric vehicles and plug-in electric vehicles, capturing 23% of the battery-electric (purely electric) market and 16% of the plug-in market (which includes plug-in hybrids) in 2020. Through its subsidiary<a href = "https://en.wikipedia.org/wiki/Tesla_Energy">Tesla Energy</a>, the company develops and is a major installer of photovoltaic systems in the United States. Tesla Energy is also one of the largest global suppliers of battery energy storage systems, with 3.99 gigawatt-hours (GWh) installed in 2021.
+    </p>
+
+    <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elon_Musk_2015.jpg/113px-Elon_Musk_2015.jpg"
+            alt="Musk at the 2015 Tesla Motors Annual Meeting">
+            <figcaption>
+                Musk at the 2015 Tesla Motors Annual Meeting
+            </figcaption>
+    </figure>
+
+    <h1>Tesla Energy products </h1>
+        <p id="2">
+            <strong>Tesla Energy products</strong>
+            Main article: <a href ="Tesla Energy">Tesla Energy</a>
+            
+            Two Tesla Powerwall 2 home energy storage devices from Tesla Energy
+            Tesla subsidiary Tesla Energy develops, builds, sells and installs solar energy generation systems and battery energy storage products (as well as related products and services) to residential, commercial and industrial customers.
+            
+            The subsidiary was created by the merger of Tesla's existing battery energy storage products division with SolarCity, a solar energy company that Tesla acquired in 2016.<sup>[158]</sup>
+            
+            Tesla Energy's generation products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system) and the Tesla Solar Inverter. Other products include the Powerwall (a home energy storage device) and the Powerpack and Megapack, which are large-scale energy storage systems.<sup>[159][160][161]</sup> Tesla Energy also develops software to allow customers to monitor and control their systems.<sup>[162][163]</sup>
+            
+            In 2021, the company deployed solar energy systems capable of generating 345 megawatts, an increase of 68% over 2020,<sup>[164]</sup> and deployed 3.99 gigawatt-hours of battery energy storage products, an increase of 32% over 2020.<sup>[165]</sup>
+
+            <figure>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Johnstone_000178_172617_517894_4578_%2836736411886%29.jpg/300px-Johnstone_000178_172617_517894_4578_%2836736411886%29.jpg"
+                    alt="Two Tesla Powerwall 2 home energy storage devices from Tesla Energy">
+                    <figcaption>
+                        Two Tesla Powerwall 2 home energy storage devices from Tesla Energy
+                    </figcaption>
+            </figure>
+        
+
+            <h1>Future products </h1>
         <p id="3">
-        Tesla has been the subject of several lawsuits and controversies arising from statements and acts of CEO Elon Musk and from allegations of creative accounting, whistleblower retaliation, worker rights violations, and unresolved and dangerous technical problems with their products. In September 2021, the National Highway Traffic Safety Administration (NHTSA) ordered Tesla to submit data pertaining to all sold US vehicles equipped with Autopilot.</p>
+            <strong>Future products</strong>
+            Roadster (second generation)
+            Main article:<a herf=" Tesla Roadster (second generation)">Tesla Roadster(second generation</a>
+            
+            Tesla Roadster prototype
+            In a surprise reveal at the end of the event that introduced the Tesla Semi on November 16, 2017, Tesla unveiled the second generation Roadster. Musk said that the new model will have a range of 620 miles (1,000 km) with the 200 kilowatt-hours (720 MJ) battery pack and will achieve 0–60 miles per hour (0–97 km/h) in 1.9 seconds; it also will achieve 0–100 miles per hour (0–161 km/h) in 4.2 seconds,<sup>[126]</sup> and the top speed will be over 250 miles per hour (400 km/h). The SpaceX Package will include cold air thrusters that will increase the speed even more.<sup>[127]</sup> The vehicle will have three electric motors allowing for all-wheel drive and torque vectoring during cornering.<sup>[127]</sup>
+            
+            At the time, the base price was set at $200,000, while the first 1,000 units (the Founder's series) will sell for $250,000.<sup>[127] </sup>Reservations required a deposit of $50,000, and those who ordered the Founder's series paid the $250,000 in full upon ordering. Those who made a reservation at the event were allowed a test drive (with a driver) in the prototype.<sup>[128]</sup> Deliveries are expected to start in 2022.<sup>[129]</sup>
+
+            <figure>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tesla_roadster_2020_prototype.jpg/330px-Tesla_roadster_2020_prototype.jpg"
+                    alt="Tesla Roadster prototype">
+                    <figcaption>
+                        Tesla Roadster prototype
+                    </figcaption>
+            </figure>
 
     </section>
     </main>
