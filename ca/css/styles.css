@@ -11307,7 +11307,7 @@ nav {
  align-items: center; 
 }
 nav img {
-  width: 65px;
+  width: 55px;
 }
 .header-link {
   flex: 1;
@@ -11319,20 +11319,19 @@ nav img {
   padding: 8px 12px;
   position: relative;
 }
+figure img{
+  height: 150;
+ 
+}
 #table {
   border-collapse: collapse;
   margin-left: auto;
   margin-right: auto;
   font-size: 14px;
 }
-td,th { border: 1px solid #999;
-  }
- 
-
 td,th {
   border: 1px solid #999;
   padding: 0.5rem;
-  text-alig
 }
 td, th {
   width: 4rem;
