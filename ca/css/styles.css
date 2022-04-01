@@ -11325,4 +11325,25 @@ nav img {
   margin-right: auto;
   font-size: 14px;
 }
+td,th { border: 1px solid #999;
+  }
+ 
 
+td,th {
+  border: 1px solid #999;
+  padding: 0.5rem;
+  text-alig
+}
+td, th {
+  width: 4rem;
+  height: 2rem;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+th {
+  background:white;
+  border-color: black;
+}
+body {
+  padding: 1rem;
+}
