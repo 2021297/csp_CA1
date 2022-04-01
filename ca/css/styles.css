@@ -11286,3 +11286,43 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+* {
+  font-family: 'Poppins', sans-serif;
+}
+body {
+  background-color: antiquewhite;
+  background-size: cover;
+}
+.header {
+  min-height: 20vh;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+nav {
+ display: flex;
+ padding: 15px 20px;
+ justify-content: space-between;
+ align-items: center; 
+}
+nav img {
+  width: 65px;
+}
+.header-link {
+  flex: 1;
+  text-align: right;
+}
+.header-link ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 8px 12px;
+  position: relative;
+}
+#table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 14px;
+}
+
