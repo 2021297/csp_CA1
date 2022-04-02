@@ -11288,6 +11288,7 @@ textarea.form-control-lg {
 }
 * {
   font-family: 'Poppins', sans-serif;
+  font-weight: weightOfFont;
 }
 body {
   background-color: antiquewhite;
@@ -11308,6 +11309,7 @@ nav {
 }
 nav img {
   width: 55px;
+  padding: 8px 12px;
 }
 .header-link {
   flex: 1;
@@ -11322,10 +11324,7 @@ nav img {
 figure img{
   height: 150;
  
-}
-td, th {
-  border: 1px solid #ccc;
-  text-align: center;
+
   
 }
 tr:nth-child(even) {
@@ -11336,3 +11335,10 @@ tr:nth-child(even) {
   border-collapse: collapse;
   border-spacing: 0.5rem;
 }  
+able {
+  border-collapse: collapse;
+ }
+ td, th {
+  border: 1px solid #999;
+  padding: 0.5rem;
+  text-align: center;
